@@ -1,0 +1,63 @@
+# Sistema operacional
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+
+*.log
+logs/
+
+# Arquivos temporários
+
+*.tmp
+*.temp
+*.bak
+*~
+
+# Python
+
+**pycache**/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Node
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Containerlab / Docker
+
+.clab/
+containerlab/
+*.pcap
+*.pcapng
+
+# Arquivos gerados de execução
+
+*.out
+*.pid
+
+# Ambiente local
+
+.env
+.env.*
+!.env.example
+
+# Configurações locais do usuário
+
+.vscode/settings.json
+.idea/workspace.xml

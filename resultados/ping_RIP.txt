@@ -1,0 +1,15 @@
+PING 192.168.50.1 (192.168.50.1): 56 data bytes
+64 bytes from 192.168.50.1: seq=0 ttl=63 time=0.096 ms
+64 bytes from 192.168.50.1: seq=1 ttl=63 time=0.202 ms
+64 bytes from 192.168.50.1: seq=2 ttl=63 time=0.064 ms
+64 bytes from 192.168.50.1: seq=3 ttl=63 time=0.148 ms
+64 bytes from 192.168.50.1: seq=4 ttl=63 time=0.191 ms
+64 bytes from 192.168.50.1: seq=5 ttl=63 time=0.067 ms
+64 bytes from 192.168.50.1: seq=6 ttl=63 time=0.195 ms
+64 bytes from 192.168.50.1: seq=7 ttl=63 time=0.056 ms
+64 bytes from 192.168.50.1: seq=8 ttl=63 time=0.073 ms
+64 bytes from 192.168.50.1: seq=9 ttl=63 time=0.110 ms
+
+--- 192.168.50.1 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.056/0.120/0.202 ms

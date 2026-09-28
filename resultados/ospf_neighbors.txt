@@ -1,0 +1,32 @@
+===== r1 =====
+
+Neighbor ID     Pri State           Up Time         Dead Time Address         Interface                        RXmtL RqstL DBsmL
+2.2.2.2           1 Full/-          35.236s           34.761s 10.0.12.2       eth1:10.0.12.1                       0     0     0
+3.3.3.3           1 Full/-          25.238s           34.760s 10.0.13.2       eth2:10.0.13.1                       0     0     0
+
+===== r2 =====
+
+Neighbor ID     Pri State           Up Time         Dead Time Address         Interface                        RXmtL RqstL DBsmL
+1.1.1.1           1 Full/-          35.384s           34.612s 10.0.12.1       eth1:10.0.12.2                       0     0     0
+4.4.4.4           1 Full/-          20.383s           34.619s 10.0.24.2       eth2:10.0.24.1                       0     0     0
+
+===== r3 =====
+
+Neighbor ID     Pri State           Up Time         Dead Time Address         Interface                        RXmtL RqstL DBsmL
+1.1.1.1           1 Full/-          25.517s           34.482s 10.0.13.1       eth1:10.0.13.2                       0     0     0
+4.4.4.4           1 Full/-          25.515s           34.489s 10.0.34.2       eth2:10.0.34.1                       0     0     0
+5.5.5.5           1 Full/-          25.515s           34.483s 10.0.35.2       eth3:10.0.35.1                       0     0     0
+
+===== r4 =====
+
+Neighbor ID     Pri State           Up Time         Dead Time Address         Interface                        RXmtL RqstL DBsmL
+2.2.2.2           1 Full/-          20.648s           34.349s 10.0.24.1       eth1:10.0.24.2                       0     0     0
+3.3.3.3           1 Full/-          25.650s           34.348s 10.0.34.1       eth2:10.0.34.2                       0     0     0
+5.5.5.5           1 Full/-          25.649s           34.349s 10.0.45.2       eth3:10.0.45.1                       0     0     0
+
+===== r5 =====
+
+Neighbor ID     Pri State           Up Time         Dead Time Address         Interface                        RXmtL RqstL DBsmL
+3.3.3.3           1 Full/-          25.789s           34.209s 10.0.35.1       eth1:10.0.35.2                       0     0     0
+4.4.4.4           1 Full/-          20.788s           34.216s 10.0.45.1       eth2:10.0.45.2                       0     0     0
+

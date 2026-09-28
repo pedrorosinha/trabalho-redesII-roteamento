@@ -1,0 +1,16 @@
+protocolo,roteador,rotas
+OSPF,r1,16
+OSPF,r2,16
+OSPF,r3,17
+OSPF,r4,17
+OSPF,r5,16
+RIP,r1,13
+RIP,r2,13
+RIP,r3,13
+RIP,r4,13
+RIP,r5,13
+BGP,r1,10
+BGP,r2,9
+BGP,r3,10
+BGP,r4,10
+BGP,r5,10
